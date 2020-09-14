@@ -5,7 +5,7 @@ cache: yarn
 
 
 install:
-  - yarn ci
+  - yarn install
 
 script:
   - yarn test
